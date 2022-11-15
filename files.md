@@ -23,7 +23,7 @@ These files are automatically generated each time a new repeater is added. Many 
 programming a large number of radios.
 
 1. You'll want to check that Chirp [supports your
-   radio](https://chirp.danplanet.com/projects/chirp/wiki/Supported_Radios). 
+   radio](https://chirp.danplanet.com/projects/chirp/wiki/Supported_Radios).
 2. You will need a programming cable that works with your radio. Chirp has [a
    guide on the
    subject](https://chirp.danplanet.com/projects/chirp/wiki/CableGuide), and
@@ -38,7 +38,7 @@ programming a large number of radios.
    download>CSV file</a>. Dave Casler has [a good video to get you
    started](https://www.youtube.com/watch?v=Mrpqq-xi00g).
 
-For more information, check out [Chirp's Wiki](https://chirp.danplanet.com/projects/chirp/wiki/Home). 
+For more information, check out [Chirp's Wiki](https://chirp.danplanet.com/projects/chirp/wiki/Home).
 
 Here's a great video from [Mike, K7MCK](https://www.qrz.com/db/K7MCK) giving you some help in programming your radio specifically for the Repeater Roundabout.
 
@@ -73,8 +73,9 @@ software](https://support.bridgecomsystems.com/anytone-878-v2-model-cps-firmware
    <br>You can also enter "Roundabout" as the Zone Name (optional).
 3. Then use the `Program > Write to Radio` menu to send the program to your D878.
 
-<p style="margin-bottom: 1rem; margin-top: 0"><br /></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epmLG4V6XUQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<p style="margin-bottom: 1rem; margin-top: 0"><br /></p>
 
 
 ## Icom IC-705 instructions
