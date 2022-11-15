@@ -42,7 +42,7 @@ For more information, check out [Chirp's Wiki](https://chirp.danplanet.com/proje
 
 Here's a great video from [Mike, K7MCK](https://www.qrz.com/db/K7MCK) giving you some help in programming your radio specifically for the Repeater Roundabout.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ytdd6lbrIMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/ytdd6lbrIMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p style="margin-bottom: 1rem; margin-top: 0"><br /></p>
 
@@ -73,7 +73,7 @@ software](https://support.bridgecomsystems.com/anytone-878-v2-model-cps-firmware
    <br>You can also enter "Roundabout" as the Zone Name (optional).
 3. Then use the `Program > Write to Radio` menu to send the program to your D878.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epmLG4V6XUQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/epmLG4V6XUQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p style="margin-bottom: 1rem; margin-top: 0"><br /></p>
 
